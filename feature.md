@@ -1,6 +1,6 @@
 # Features 0.1 BETA1
 
-**Conditional**
+**Conditional**{: style="font-size: smaller;"}
 step
 stepout 
 **Variable**
