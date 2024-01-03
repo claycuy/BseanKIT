@@ -1,19 +1,25 @@
-# Features 0.1 BETA1
+# Feature
 
 **Conditional**\
 step(if)\
 stepout(else)\ 
 
 **Variable**\
-setLet\
-setVar\
-setConst\
+setLet(let)\
+setVar(var)\
+setConst(const)\
 
-**User Interaction**\
-setKey\
-setMouse\
-layarToast\
-consoleToast\
-makeToast\
+**User interaction**\
+setKey(keyboard)\
+setMouse(mouse)\
+layarToast(alert)\
+consoleToast(console.log)\
+makeToast(prompt)\
 
-**
+**Page navigation**\
+moveToPage(href)\
+
+# Exclusive Features
+
+**Display mode**\
+dalmode(dark and light mode)
