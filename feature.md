@@ -2,7 +2,7 @@
 
 **Conditional**\
 step(if)\
-stepout(else)\ 
+stepout(else)
 
 **Variable**\
 setLet(let)\
