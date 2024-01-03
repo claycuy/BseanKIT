@@ -7,17 +7,17 @@ stepout(else)\
 **Variable**\
 setLet(let)\
 setVar(var)\
-setConst(const)\
+setConst(const)
 
 **User interaction**\
 setKey(keyboard)\
 setMouse(mouse)\
 layarToast(alert)\
 consoleToast(console.log)\
-makeToast(prompt)\
+makeToast(prompt)
 
 **Page navigation**\
-moveToPage(href)\
+moveToPage(href)
 
 # Exclusive Features
 
