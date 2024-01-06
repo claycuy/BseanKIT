@@ -21,19 +21,35 @@ setConst = "Const";
 //to set setLet1 - setLet10, setVar1 - setVar10, and setConst1 - setConst10.
 ```
 
-User interaction
-• setKey(keyboard)
-• setMouse(mouse)
-• layarToast(alert)
-• consoleToast(console.log)
-• makeToast(prompt)
+**User interaction**
+```
+setKey('Enter', function() {
+//Your implementation is here
+});
 
-Page navigation
-• moveToPage(href)
+setMouse(0, function() {
+//Your implementation is here
+});
 
-Exclusive Features
-Display mode
-• dalmode(dark and light mode)
+layarToast('Your text here');
+
+consoleToast('Your text here');
+
+makeToast('Your text here');
+```
+
+**Page navigation**
+```
+moveToPage('Your page here')
+```
+
+**Exclusive Features**
+```
+HTMl :
+id for h1 - h6, a, p, and etc " id="dalt" ".
+id for button : id="dalBtn".
+id for element :
+```
 
 Default Features
 Default Let
