@@ -2,9 +2,11 @@
 
 **Step and Stepout**
 
-```if(step(var1 == 5){
+```
+if(step(var1 == 5){
 
 }else{
 
 stepout();
-}```
+}
+```
